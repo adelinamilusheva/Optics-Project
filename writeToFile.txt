@@ -1,0 +1,1 @@
+Supplier's bulstat: 12312; Supplier's name: OpticsFabrik; Supplier's location: Sofia; Supplier's phone number: 088976534; Supplier's delivery price: 5.6; Optics serial numbers: G1, G2, 
